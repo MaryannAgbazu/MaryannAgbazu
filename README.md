@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on data analytics projects, Let's talk data.
 - ⚡ Fun fact: I am a foodie!
 - 📫 How to reach me
+- [Email](maryannagbazu@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/maryannagbazu)
 - [Twitter](https://x.com/vj_precious_)
 - [Medium](https://medium.com/@maryannagbazu)
