@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I am a foodie!
 - 📫 How to reach me
 - Email
-- LinkedIN
+- [LinkedIn](https://www.linkedin.com/in/maryannagbazu)
 - Twitter
 - Medium
 
