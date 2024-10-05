@@ -10,23 +10,9 @@
 - [Medium](https://medium.com/@maryannagbazu)
 
 - **SKILLS AND TOOLS:**
+  ---
 
-
-
-
-![PBI](https://github.com/user-attachments/assets/a6cfdb13-fab5-4c91-bd34-7167a7bfe8f5)
-
-![EXCI](https://github.com/user-attachments/assets/6ae819d8-cf2a-4142-8bde-3e6144b3682a)
-
-![TABL](https://github.com/user-attachments/assets/a8704ce0-2902-4cad-b517-7395da8b76aa)
-
-
-![SQL PO](https://github.com/user-attachments/assets/67dfa3a6-0a28-4273-9ae9-03022ae30a56)
-
-
-
-
-![R LO](https://github.com/user-attachments/assets/f8980746-a106-4523-ab2b-8e793a868d31)
+![PBI](https://github.com/user-attachments/assets/c6cf0465-095f-49d5-b805-f3b950ead522) ![EXCI](https://github.com/user-attachments/assets/9b841781-6497-4309-aa6b-fe4207c3e68e) ![TABLU](https://github.com/user-attachments/assets/14c4af7e-feba-41b9-85bd-5ece5e365de2) ![SQL PO](https://github.com/user-attachments/assets/2f55cdf1-0767-4d3e-b54f-a1dcc601ced9) ![R LO](https://github.com/user-attachments/assets/177e65b2-18a9-4b49-b1d1-20b48e1d1711)
 
 
 <!---
