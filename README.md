@@ -4,10 +4,9 @@
 - 💞️ I’m looking to collaborate on data analytics projects, Let's talk data.
 - ⚡ Fun fact: I am a foodie!
 - 📫 How to reach me
-- Email
 - [LinkedIn](https://www.linkedin.com/in/maryannagbazu)
-- Twitter
-- Medium
+- [Twitter](https://x.com/vj_precious_)
+- [Medium](https://medium.com/@maryannagbazu)
 
 <!---
 MaryannAgbazu/MaryannAgbazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
